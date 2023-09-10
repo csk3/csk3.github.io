@@ -12,4 +12,4 @@ featured: true
 
 # Adjusting the angle of the sample with Hx and Hz field
 
-An easy way to adjust the sample in the magnetic field
+An easy way to adjust the sample in the magnetic field.
