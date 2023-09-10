@@ -7,7 +7,6 @@ tags: formatting bib
 categories: Method
 giscus_comments: true
 related_posts: false
-featured: true
 ---
 
 # Adjusting the angle of the sample with Hx and Hz field
