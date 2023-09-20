@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Creation of my academic website
+date: 2023-09-20 16:11:00-0300
+inline: false
 related_posts: false
 ---
-
-A simple inline announcement.
