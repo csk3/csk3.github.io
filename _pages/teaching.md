@@ -2,12 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching Assistant
-description: Teaching Assistant
 nav: true
 nav_order: 5
 ---
 
-# Teaching Assistant in HKUST
 ***
 ## ELEC 3300 - Introduction to Embedded Systems
 

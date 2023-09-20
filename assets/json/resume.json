@@ -27,8 +27,8 @@
       "name": "The Hong Kong University of Science and Technology",
       "position": "Research student helper",
       "url": "https://sqml.ust.hk",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2019-09-01",
+      "endDate": "2021-08-01",
       "summary": "Engineered a software platform to automate equipment control for Hall effect measurements, streamlining data collection processes",
       "highlights": [
         "Equipment control system"
@@ -61,7 +61,7 @@
       ]
     }
   ],
-  "awards": [  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
@@ -80,7 +80,9 @@
     }
   ],
   "interests": [
-    {"Basketball": "Beginner"}
+    {
+      "Basketball": "Beginner"
+    }
   ],
   "references": [],
   "projects": []

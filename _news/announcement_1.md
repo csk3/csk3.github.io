@@ -1,8 +1,7 @@
 ---
 layout: post
+title: Creation of my academic website
 date: 2023-09-20 16:11:00-0300
-inline: false
+inline: true
 related_posts: false
 ---
-
-Creation of my academic website
