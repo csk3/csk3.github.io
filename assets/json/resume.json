@@ -24,21 +24,32 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "The Hong Kong University of Science and Technology",
+      "position": "Research student helper",
+      "url": "https://sqml.ust.hk",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Engineered a software platform to automate equipment control for Hall effect measurements, streamlining data collection processes",
       "highlights": [
-        "Relativity"
+        "Equipment control system"
+      ]
+    },
+    {
+      "name": "Simatelex Industrial Company",
+      "position": "Software engineer trainee",
+      "url": "https://www.simatelex.com.hk",
+      "startDate": "2019-06-06",
+      "endDate": "2019-08-31",
+      "summary": "Providing assistance in microprocessor software development, which includes structured coding, debugging, performance testing, and administrative tasks.",
+      "highlights": [
+        "STM32"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Hong Kong University of Science and Technology ",
+      "institution": "The Hong Kong University of Science and Technology",
       "url": "https://hkust.edu.hk",
       "area": "Electronic and Computer Engineering",
       "studyType": "MPhil",
@@ -50,14 +61,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+  "awards": [  ],
   "certificates": [],
   "publications": [],
   "skills": [],
@@ -76,7 +80,7 @@
     }
   ],
   "interests": [
-    {"Basketball": "Begineer"}
+    {"Basketball": "Beginner"}
   ],
   "references": [],
   "projects": []
