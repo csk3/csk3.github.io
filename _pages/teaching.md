@@ -1,12 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching Assistant
+description: Teaching Assistant
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Teaching Assistant in HKUST
+***
+## ELEC 3300 - Introduction to Embedded Systems
 
-Organize your courses by years, topics, or universities, however you like!
+This course is designed to teach techniques on how to integrate machine-level software and hardware in ARM-core microcontroller based systems. It makes use of industry-standard techniques and technologies, from which students can interface, design and program microcontroller systems. The task of the course will be to complete five laboratory experiments which address different aspects of hardware/software interfacing, and one large microprocessor/microcontroller based project which should result in the design and implementation of a small working embedded system.
+
