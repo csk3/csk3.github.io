@@ -19,5 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Kong** was born in China. He attended secondary schools in Hong Kong and completed his Bachelor degree in Electronic and Computer Engineering at HKUST. 
+**Kong** was born in China. He completed his Bachelor degree in Electronic and Computer Engineering at HKUST. 
 He joined SQML as a MPhil student in Fall 2021. His research interests includes in-memory computing, embedded system and spintronic devices.
