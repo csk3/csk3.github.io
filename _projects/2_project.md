@@ -2,7 +2,7 @@
 layout: page
 title: Remote control with keithley machine 
 description: 
-img: assets/img/motor.png
+img: assets/img/mac.png
 importance: 1
 category: work
 ---
