@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: MPhil student in <a href='https://sqml.ust.hk'>Electronic and Computer Engineering</a>.
 
