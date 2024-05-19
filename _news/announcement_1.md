@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Kong was approved for graduation at HKUST(Hong Kong University of Science and Technology).
+Kong was approved for graduation at HKUST (Hong Kong University of Science and Technology).
