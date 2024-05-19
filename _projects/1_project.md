@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Controlling the Step motor for the rotation
+title: 1. CCControlling the Step motor for the rotation
 description: 
 img: assets/img/motor.png
 importance: 1
