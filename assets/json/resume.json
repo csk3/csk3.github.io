@@ -54,11 +54,19 @@
       "area": "Electronic and Computer Engineering",
       "studyType": "MPhil",
       "startDate": "2021-09-01",
-      "endDate": "",
+      "endDate": "2024-03-13",
       "score": "",
-      "courses": [
-        ""
-      ]
+      "courses":[""]
+    },
+    {
+      "institution": "The Hong Kong University of Science and Technology",
+      "url": "https://hkust.edu.hk",
+      "area": "Electronic and Computer Engineering",
+      "studyType": "BEng",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-30",
+      "score": "3.0/4.3",
+      "courses":[""]
     }
   ],
   "awards": [],
