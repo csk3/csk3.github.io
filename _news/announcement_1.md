@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-20 16:11:00-0300
+date: 2024-03-13
 inline: true
 related_posts: false
 ---
 
-Creation of my academic website
+Kong was approved for graduation at HKUST(Hong Kong University of Science and Technology).

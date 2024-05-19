@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Spintronic Quantum Material Laboratory(SQML) as a MPhil student
+Kong Joined Spintronic Quantum Material Laboratory(SQML) as a MPhil student
