@@ -1,16 +1,14 @@
 
 
-[![csk3](https://img.shields.io/badge/csk?logo=github)](https://github.com/csk3)
-
 He is currently pursuing a PhD in Eletrical Engineering, at Northwestern University, USA.
 
 #### Email
 
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2022.
+
+MPhil in Electornic Engineering, the Hong Kong University of Science and Technology (2021-2024).\
+B.E in Electornic Engineering, the Hong Kong University of Science and Technology (2018-2021).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Spintronic devices, In-memory computing.
