@@ -3,7 +3,7 @@
 - Ren, Z., Liu, R., <strong>Cheung, S.</strong>, Qian, K., Wu, X., Xiao, Z., Tong, Z., Liu, J., & Shao, Q. (2024). Strongly temperature-dependent spin–orbit torque in sputtered WTex. Journal of Applied Physics, 135(14). [[Link]](https://doi.org/10.1063/5.0157352)
 
 
-- Liu, J., Xiong, Y., Liang, J., Wu, X., Liu, C., <strong>Shun Kong Cheung<\strong>, Ren, Z., Liu, R., Christy, A., Chen, Z., Ferris Prima Nugraha, Xi-Xiang, Z., Leung, C. W., Zhang, W., & Shao, Q. (2023). Strong magnon-magnon coupling in an ultralow damping all-magnetic-insulator heterostructure. arXiv.Org. [[Link]](https://doi.org/10.48550/arxiv.2309.03116)
+- Liu, J., Xiong, Y., Liang, J., Wu, X., Liu, C., <strong>Shun Kong Cheung</strong>, Ren, Z., Liu, R., Christy, A., Chen, Z., Ferris Prima Nugraha, Xi-Xiang, Z., Leung, C. W., Zhang, W., & Shao, Q. (2023). Strong magnon-magnon coupling in an ultralow damping all-magnetic-insulator heterostructure. arXiv.Org. [[Link]](https://doi.org/10.48550/arxiv.2309.03116)
 
 - Tong, Z., <strong>Cheung, S. K.</strong>, Ren, Z., Yang, P., & Shao, Q. (2023, May). Modeling of Multi-Level Spin-Orbit Torque-MRAM: Scalability, Stochasticity, and Variations. In 2023 IEEE International Magnetic Conference-Short Papers (INTERMAG Short Papers) (pp. 1-2). IEEE.
 
