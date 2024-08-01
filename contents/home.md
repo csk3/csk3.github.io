@@ -1,11 +1,10 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![csk3](https://img.shields.io/badge/csk?logo=github)](https://github.com/csk3)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a PhD in Eletrical Engineering, at Northwestern University, USA.
 
 #### Email
-sli[at]cumt.edu.cn
 
 
 #### Education
