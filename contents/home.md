@@ -1,16 +1,15 @@
+### About Me
 
-### About me
+Hi, I’m Kong, originally from the vibrant city of Hong Kong, and I am currently pursuing a PhD in Electrical Engineering at Northwestern University, USA. My research centers on **spintronic devices** and **in-memory computing** with a focus on the next generation of memory and chip technologies.
 
-Hi, I am Kong, hailing from the vibrant city of Hong Kong. I am currently pursuing a PhD in Electrical Engineering at Northwestern University, USA.
-
-My research focuses on <strong>spintronic devices</strong> and <strong>in-memory computing</strong>. I began my research journey during my third year at HKUST, where I initially measured magnetic material properties before transitioning to the fabrication of advanced memory and next-generation chips. During my undergraduate studies, I developed an automatic measurement program in Python, and during my master’s, I was trained in fabricating memory units.
-
-I am passionate about advancing technology and look forward to contributing to the field of electrical engineering through innovative research and development.
+My research journey began during my third year at HKUST, where I first measured magnetic material properties before transitioning to the fabrication of advanced memory and spintronic devices. Throughout my studies, I developed an automatic measurement program in Python during my undergraduate years, and during my master's, I gained hands-on experience in memory unit fabrication. Now, as a PhD student, I am eager to push the boundaries of innovation in spintronics and contribute to the future of electrical engineering.
 
 ### Education
 
-MPhil in Electornic Engineering, the Hong Kong University of Science and Technology (2021-2024).\
-B.E in Electornic Engineering, the Hong Kong University of Science and Technology (2018-2021).
+- **PhD in Electrical Engineering**, Northwestern University (2024-Present)
+- **MPhil in Electronic Engineering**, The Hong Kong University of Science and Technology (2021-2024)
+- **B.E. in Electronic Engineering**, The Hong Kong University of Science and Technology (2018-2021)
+
 
 ### Teaching Experience
 
